@@ -1,6 +1,9 @@
 # OneIndex
 Onedrive Directory Index
 
+# 备注：
+需要留意：Nginx的伪静态，需要自己设置或者转换
+
 ## 功能：
 不占用服务器空间，不走服务器流量，  
 
